@@ -89,7 +89,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						</div>
                     </div>
 					<div class="footer">
-						Copyright &copy; 2017 &mdash; BIGEST eaa eaaa eaa eaaaa
+						Copyright &copy; 2017 &mdash; BIGEST 
 					</div>
 				</div>
 			</div>
